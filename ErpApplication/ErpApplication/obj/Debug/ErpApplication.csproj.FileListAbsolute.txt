@@ -1,0 +1,13 @@
+C:\Users\PC\source\repos\ErpApplication\ErpApplication\bin\Debug\ErpApplication.exe.config
+C:\Users\PC\source\repos\ErpApplication\ErpApplication\bin\Debug\ErpApplication.exe
+C:\Users\PC\source\repos\ErpApplication\ErpApplication\bin\Debug\ErpApplication.pdb
+C:\Users\PC\source\repos\ErpApplication\ErpApplication\bin\Debug\EntityFramework.dll
+C:\Users\PC\source\repos\ErpApplication\ErpApplication\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PC\source\repos\ErpApplication\ErpApplication\bin\Debug\EntityFramework.xml
+C:\Users\PC\source\repos\ErpApplication\ErpApplication\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PC\source\repos\ErpApplication\ErpApplication\obj\Debug\ErpApplication.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\ErpApplication\ErpApplication\obj\Debug\ErpApplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\source\repos\ErpApplication\ErpApplication\obj\Debug\ErpApplication.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\ErpApplication\ErpApplication\obj\Debug\ErpApplication.csproj.CopyComplete
+C:\Users\PC\source\repos\ErpApplication\ErpApplication\obj\Debug\ErpApplication.exe
+C:\Users\PC\source\repos\ErpApplication\ErpApplication\obj\Debug\ErpApplication.pdb
